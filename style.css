@@ -1,0 +1,60 @@
+
+body {
+    background: grey; 
+}
+
+#descriptiveTitle{
+    font-style: italic;
+}
+
+#GTC4 {
+    max-width:500px
+}
+
+#Huracan {
+    max-width:500px
+}
+
+#Targa {
+    max-width:500px
+}
+
+#Spyder {
+    max-width:500px
+} 
+
+#S-Coupe {
+    max-width:500px
+}
+
+#G-Wagen {
+    max-width:500px
+}
+
+#Range {
+    max-width:500px
+}
+
+#Sportback {
+    max-width:500px
+}
+
+#Wrangler {
+    max-width:500px
+}
+
+#Hellcat {
+    max-width:500px
+}
+
+#Challenger {
+    max-width:500px
+}
+
+#Pagoda {
+    max-width:500px
+}
+
+#E {
+    max-width:500px
+}
